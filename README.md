@@ -1,2 +1,2 @@
 # T5_NLP_Project
-test
+This repo is for T5 Data Science Bootcamp, Natural Language Processing project
