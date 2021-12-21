@@ -1,4 +1,4 @@
-# Detecting movies genre by script
+# Detecting Movie's Genre By Script
 
 
 > ## Introduction
