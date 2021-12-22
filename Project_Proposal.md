@@ -8,7 +8,7 @@
 
 > ## Goals
 > 
->> To predict each movie's genre.
+>> To detect each movie's genre.
 
 
 > ## Data Description
