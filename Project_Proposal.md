@@ -1,19 +1,19 @@
-# Detecting Movie's Genre By Script
+# Airbnb Reviews Topic Modeling
 
 
 > ## Introduction
 > 
->>The purpose of the model we plan to build is to predict genre of a movie via script, We will take 70 movie from IMSDB and we will have the title of the movie and the scripts of the whole movie.
->>Our model will analyze each movie's script, then he will decide that's the most likely the genre of the movie can be.
+>>The purpose of the model that I plan to build topic modeling using NLP on Airbnb reviews in New York City
+>>Airbnb can better understand customer expierence from NLP.
 
 > ## Goals
 > 
->> To detect each movie's genre.
+>> topic Modiling the reviews 
 
 
 > ## Data Description
 > 
->> We will take each movie script from [IMSDB](https://imsdb.com/), using web scraping.
+>> We will take the data from [Inside Airbnb](http://insideairbnb.com/get-the-data.html), which is about the airbnb reviews in New York City in the United States.
 >
 
  > ## Tools
@@ -25,11 +25,11 @@
  >> - Pandas
  >> - Numpy
  >> - sklearn
- >> - beautifulsoup
- >> - Selenium
  >> - NLTK
+ >> - gensim
+ >> - spaCy
 
 > ## Conclusion 
 > 
->> We expect the model will detect the movie's genre.
+>> We expect the model will detect reviews topics.
 
