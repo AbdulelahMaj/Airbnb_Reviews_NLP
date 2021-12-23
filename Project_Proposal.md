@@ -3,7 +3,8 @@
 
 > ## Introduction
 > 
->>The purpose of the model that I plan to build topic modeling using NLP on Airbnb reviews in New York City
+>>The purpose of the model that I plan to build topic modeling using NLP on Airbnb reviews in New York City.
+>>
 >>Airbnb can better understand customer expierence from NLP.
 
 > ## Goals
