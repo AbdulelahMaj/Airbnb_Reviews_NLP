@@ -18,3 +18,11 @@
 
 <img width="450" alt="MVP" src="https://github.com/AbdulelahMaj/Airbnb_Reviews_NLP/blob/main/MVP.png">
 
+> That's our wordcloud after cleaning the reviews 
+
+## Future work:
+
+>- Using other liberies such as Spacy.
+>- do sentiment analysis on the reviews.
+>- apply extra models on topic modeling such as LDA and CoreX.
+
