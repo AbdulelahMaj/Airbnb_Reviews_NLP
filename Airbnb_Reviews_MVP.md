@@ -16,5 +16,5 @@
 
 ## Graph:
 
-<img width="450" alt="Screen Shot 2021-11-15 at 7 19 52 PM" src="https://github.com/AbdulelahMaj/Airbnb_Reviews_NLP/blob/main/wordCloud.png">
+<img width="450" alt="MVP" src="https://github.com/AbdulelahMaj/Airbnb_Reviews_NLP/blob/main/MVP.png">
 
