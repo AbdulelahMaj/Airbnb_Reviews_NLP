@@ -1,14 +1,14 @@
-# Airbnb Reviews Topic Modeling
+# Airbnb Reviews Topic Modeling & Sentiment Analysis
 
 
 > ## Introduction
 > 
->>The purpose of the model that I plan to build topic modeling using NLP on Airbnb reviews in Seattle City.
+>>The purpose of the model that I plan to build topic modeling using NLP on Airbnb reviews in Seattle City, and we will do a Sentiment analysis also.
 >>Airbnb can better understand customer expierence from NLP.
 
 > ## Goals
 > 
->> topic Modiling the reviews 
+>> topic Modiling the reviews & sentiment analysis. 
 
 
 > ## Data Description
